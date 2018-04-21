@@ -2,7 +2,7 @@
 
 ## Installation
 
-We support (Ubunut) Linux and MacOS. For Windows, the process should be almost the same. Depending on the terminal emulation that you use, you will have to run the docker command in the run scripts yourself.
+We support (Ubuntu) Linux and MacOS. For Windows, the process should be almost the same. Depending on the terminal emulation that you use, you will have to run the docker command in the run scripts yourself.
 
 1. Download and install Docker for your operating system (MacOS: [https://www.docker.com/docker-mac](https://www.docker.com/docker-mac), Ubuntu: [https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/))
 2. Clone this repository, either by executing `git clone https://github.com/zentralwerkstatt/AIWG` in a directory of your choice, or by [downloading it as a zip file here](https://github.com/zentralwerkstatt/AIWG/archive/master.zip) and extracting it to a directory of your choice.
